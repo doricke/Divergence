@@ -11,6 +11,6 @@ The program diverge.rb accepts as input sequences annotated from the SwissProtPa
 
 <h2>To Run</h2>
 
-<b>ruby diverge.rb <fasta file name></b>
+<b>ruby diverge.rb "fasta file name"</b>
 
 e.g. ruby diverge.rb a1bg
